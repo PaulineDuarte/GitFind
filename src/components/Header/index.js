@@ -2,9 +2,9 @@ import './styles.css';
 
 const Header = () =>  {
   return (
-    <Header>
+    <header className="custom-header">
         <h1>GitFind</h1>
-    </Header>
+    </header>
   )
 }
 
