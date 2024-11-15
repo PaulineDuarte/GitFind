@@ -5,6 +5,7 @@ Foi desenvolvido um projeto para buscar o perfil e os repositórios que os usuá
 
 
  <img alt="Layout do Projeto de GitFind" src="./src/assets/image.png" width="100%">
+ 
 ## Ferramentas utilizadas 
 - Javascript 
 - Css 
