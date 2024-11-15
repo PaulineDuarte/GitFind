@@ -24,6 +24,7 @@
 input {
     border: 1px solid #999999; 
     border-radius: 22px;
+    color:#ffffff; 
     min-width: 250px;
     margin-right: 12px;
     width: 80%;
